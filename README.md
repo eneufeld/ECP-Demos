@@ -26,3 +26,5 @@ You can find tutorials:
 * For EMFStore on http://eclipse.org/emfstore. 
 
 If you have question not answered on the websites, ask on the newsgroup: http://www.eclipse.org/forums/index.php/f/19/ . Use [EMFCP] in your topic title.
+
+Or contact us directly: munich@eclipsesource.com
