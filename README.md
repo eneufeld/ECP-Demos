@@ -7,7 +7,7 @@ Setup
 =====
 1. Download the Eclipse Modeling Tools from here: http://www.eclipse.org/downloads/packages/eclipse-modeling-tools/junosr2
 2. In your Eclipse go to Help->Install New Software
-3. Install the EMFStore using this update site: http://download.eclipse.org/emf-store/milestones/latest (select all features)
+3. Install the EMFStore using this update site: http://download.eclipse.org/emf-store/milestones/100RC2 (select all features)
 4. Install the EMFCP using this update site: http://download.eclipse.org/emfclient/milestones/100RC2 (select all features)
 5. Optional: Install the PShelf widget from this update site: http://download.eclipse.org/technology/nebula/snapshot (just PShelf)
 6. Import the Sources from git
