@@ -1,20 +1,28 @@
 ECP-Demos
 =========
 
-Demo features for ECP
+Demo features for EMFCP
 
 Setup
-=========
+=====
 1. Download the Eclipse Modeling Tools from here: http://www.eclipse.org/downloads/packages/eclipse-modeling-tools/junosr2
 2. In your Eclipse go to Help->Install New Software
-	2.1 Install the EMFStore using this update site: http://download.eclipse.org/emf-store/milestones/latest (select all features)
-	2.2 Install the EMFCP using this update site: http://download.eclipse.org/emfclient/milestones/100RC2 (select all features)
-	Optional:
-	2.3 Install the PShelf widget from this update site: http://download.eclipse.org/technology/nebula/snapshot (just PShelf)
-3. Import the Sources from git
-4. Go to Run->Run Configurations
-	4.1 Select "Eclipse Application" and create a new
-	4.2 Give it a meaningful name
-	4.3 Select "Run an application" and there the "org.eclipse.emf.ecp.application.e3.application"
-	4.4 Hit "Apply"
-5. Run the application
+3. Install the EMFStore using this update site: http://download.eclipse.org/emf-store/milestones/latest (select all features)
+4. Install the EMFCP using this update site: http://download.eclipse.org/emfclient/milestones/100RC2 (select all features)
+5. Optional: Install the PShelf widget from this update site: http://download.eclipse.org/technology/nebula/snapshot (just PShelf)
+6. Import the Sources from git
+7. Go to Run->Run Configurations
+8. Select "Eclipse Application" and create a new
+9. Give it a meaningful name
+10. Select "Run an application" and there the "org.eclipse.emf.ecp.application.e3.application"
+11. Hit "Apply"
+12. Run the application
+
+
+Help
+====
+You can find tutorials:
+* For EMFCP on http://eclipse.org/emfclient. 
+* For EMFStore on http://eclipse.org/emfstore. 
+
+If you have question not answered on the websites, ask on the newsgroup: http://www.eclipse.org/forums/index.php/f/19/ . Use [EMFCP] in your topic title.
